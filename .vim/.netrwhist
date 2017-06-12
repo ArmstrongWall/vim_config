@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/wzq/Zephyr/tiny-mountain-qa/xml'
+let g:netrw_dirhist_2='/home/wzq/Zephyr/tiny-mountain-qa'
+let g:netrw_dirhist_3='/home/wzq/Zephyr/tiny-mountain-qa/-xml'
+let g:netrw_dirhist_4='/home/wzq/Zephyr/tiny-mountain-qa'
+let g:netrw_dirhist_5='/home/wzq/Zephyr/tiny-mountain-qa/-xml'
