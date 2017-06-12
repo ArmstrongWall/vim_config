@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	0	:/home/wzq/img_Trans/udp_video_server	1	vim	:vim udp_server.c
+pane	0	1	:vim	1	:*	1	:/home/wzq/img_Trans/udp_video_server	0	./app	:./app
+window	0	1	1	:*	ea0b,121x41,0,0[121x34,0,0,0,121x6,0,35,1]
+state	0	

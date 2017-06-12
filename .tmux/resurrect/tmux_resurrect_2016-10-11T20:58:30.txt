@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	0	:/home/wzq/embenced_linux/kernel_driver_season4/2nd/l10_usb_driver/l5_usb_download_tool	1	vim	:vim dnw_usb.c
+pane	0	1	:vim	1	:*	1	:/home/wzq/Desktop/Part4_Serial/lesson2_serial_control	0	bash	:
+window	0	1	1	:*	780f,121x24,0,0[121x19,0,0,0,121x4,0,20,1]
+state	0	

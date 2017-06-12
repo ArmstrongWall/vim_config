@@ -1,0 +1,6 @@
+pane	0	1	:bash	1	:*	0	:/home/wzq/radxa_linux_frameware/rock-bsp/boards/rock2_square/linux-rockchip	1	bash	:
+pane	0	1	:bash	1	:*	1	:/home/wzq/radxa_linux_frameware/rock-bsp/boards/rock2_square/linux-rockchip	0	bash	:
+pane	1	1	:bash	1	:*	0	:/home/wzq/radxa_linux_frameware/rock-bsp	1	bash	:/usr/bin/python /opt/ros/jade/_setup_util.py
+window	0	1	1	:*	b3f6,121x23,0,0{91x23,0,0,0,29x23,92,0,1}
+window	1	1	1	:*	b37f,121x23,0,0,2
+state	1	

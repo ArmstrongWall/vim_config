@@ -1,0 +1,4 @@
+pane	0	1	:bash	1	:*	0	:/home/wzq/linux_pram/l8_file_IO	0	vim	:vim write.c
+pane	0	1	:bash	1	:*	1	:/home/wzq/linux_pram/l8_file_IO	1	bash	:
+window	0	1	1	:*	8d43,172x38,0,0{78x38,0,0,1,93x38,79,0,2}
+state	0	0

@@ -1,0 +1,5 @@
+pane	0	1	:sz	1	:*	0	:/home/wzq/Arduino/libraries	1	sz	:sz readme.txt
+pane	0	1	:sz	1	:*	1	:/home/wzq	0	bash	:
+pane	0	1	:sz	1	:*	2	:/home/wzq	0	bash	:
+window	0	1	1	:*	29a8,121x23,0,0{74x23,0,0[74x11,0,0,1,74x11,0,12,5],46x23,75,0,3}
+state	0	0

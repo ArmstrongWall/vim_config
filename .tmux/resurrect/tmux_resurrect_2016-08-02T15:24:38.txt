@@ -1,0 +1,4 @@
+pane	0	1	:bash	1	:*	0	:/home/wzq/Arduino	1	bash	:
+pane	0	1	:bash	1	:*	1	:/home/wzq	0	bash	:
+window	0	1	1	:*	9a12,121x23,0,0[121x16,0,0,1,121x6,0,17,2]
+state	0	0

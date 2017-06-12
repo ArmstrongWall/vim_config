@@ -1,0 +1,12 @@
+pane	0	1	:vim	1	:*	0	:/home/wzq/embedded_linux/bare_tiny6410_season2/2nd/Part8_DM9000/lesson2_DM9000_ARP	1	vim	:vim main.c
+pane	0	1	:vim	1	:*	0	:/home/wzq/embedded_linux/bare_tiny6410_season2/2nd/Part8_DM9000/lesson2_DM9000_ARP	1	vim	:vim main.c
+pane	0	1	:vim	1	:*	1	:/home/wzq/embedded_linux/bare_tiny6410_season2/2nd/Part8_DM9000/lesson2_DM9000_ARP	0	bash	:
+pane	0	1	:vim	1	:*	1	:/home/wzq/embedded_linux/bare_tiny6410_season2/2nd/Part8_DM9000/lesson2_DM9000_ARP	0	bash	:
+pane	1	1	:bash	1	:*	0	:/home/wzq/embedded_linux/bare_tiny6410_season2/2nd/Part8_DM9000/lesson2_DM9000_ARP	1	bash	:
+pane	1	1	:bash	1	:*	0	:/home/wzq/embedded_linux/bare_tiny6410_season2/2nd/Part8_DM9000/lesson2_DM9000_ARP	1	bash	:
+window	0	1	1	:*	3e0f,121x24,0,0[121x21,0,0,0,121x2,0,22,1]
+window	1	1	1	:*	b77f,121x24,0,0,2
+window	0	1	1	:*	3e0f,121x24,0,0[121x21,0,0,0,121x2,0,22,1]
+window	1	1	1	:*	b77f,121x24,0,0,2
+state	0	1
+state	0	1

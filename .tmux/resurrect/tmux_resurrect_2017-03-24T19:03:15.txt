@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	0	:/home/wzq/exam_programmer	1	vim	:vim huaweitest.py
+pane	0	1	:vim	1	:*	1	:/home/wzq/exam_programmer	0	bash	:
+window	0	1	1	:*	e6e3,128x31,0,0{100x31,0,0,0,27x31,101,0,1}
+state	0	

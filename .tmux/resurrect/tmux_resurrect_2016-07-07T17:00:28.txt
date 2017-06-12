@@ -1,0 +1,6 @@
+pane	0	1	:bash	1	:*	0	:/home/wzq	1	bash	:
+pane	ros	1	:bash	1	:*	0	:/home/wzq/.tmux/plugins/tmux-resurrect	1	bash	:
+pane	ros	1	:bash	1	:*	1	:/home/wzq	0	bash	:
+window	0	1	1	:*	bebe,114x35,0,0,1
+window	ros	1	1	:*	2600,119x36,0,0[119x26,0,0,2,119x9,0,27,3]
+state	ros	ros

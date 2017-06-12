@@ -1,0 +1,6 @@
+pane	0	1	:bash	1	:*	0	:/home/wzq	0	bash	:
+pane	0	1	:bash	1	:*	1	:/home/wzq	1	bash	:
+pane	1	1	:[tmux]	1	:*	0	:/home/wzq/Arduino/libraries	1	bash	:
+window	0	1	1	:*	c7cb,121x23,0,0{74x23,0,0,5,46x23,75,0,3}
+window	1	1	1	:*	b383,121x23,0,0,6
+state	1	

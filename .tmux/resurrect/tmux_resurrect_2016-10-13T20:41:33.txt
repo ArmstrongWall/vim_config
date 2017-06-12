@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	0	:/home/wzq/embedded_linux/bare_tiny6410_season2/2nd/Part2_Interrupt/lesson2_6410	1	vim	:vim interrupt.c
+pane	0	1	:vim	1	:*	1	:/home/wzq/embedded_linux/bare_tiny6410_season2/2nd/Part2_Interrupt/lesson2_6410	0	bash	:
+window	0	1	1	:*	3e0f,121x24,0,0[121x21,0,0,0,121x2,0,22,1]
+state	0	

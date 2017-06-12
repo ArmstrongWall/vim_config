@@ -1,0 +1,5 @@
+pane	0	1	:bash	1	:*	0	:/home/wzq	0	bash	:
+pane	0	1	:bash	1	:*	1	:/home/wzq	0	bash	:
+pane	0	1	:bash	1	:*	2	:/home/wzq	1	bash	:
+window	0	1	1	:*	5eba,121x23,0,0{60x23,0,0[60x11,0,0,1,60x11,0,12,3],60x23,61,0,2}
+state	0	0

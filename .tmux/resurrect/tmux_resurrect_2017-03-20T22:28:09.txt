@@ -1,0 +1,4 @@
+pane	0	1	:bash	1	:*	0	:/home/wzq/exam_programmer/sword_to_offer	0	vim	:vim find_in_array.py
+pane	0	1	:bash	1	:*	1	:/home/wzq/exam_programmer/sword_to_offer	1	bash	:
+window	0	1	1	:*	eb0d,121x23,0,0[121x15,0,0,0,121x7,0,16,1]
+state	0	

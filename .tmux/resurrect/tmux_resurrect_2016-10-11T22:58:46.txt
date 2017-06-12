@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	0	:/home/wzq/embenced_linux/kernel_driver_season4/2nd/l10_usb_driver/l5_usb_download_tool	1	vim	:vim Makefile
+pane	0	1	:vim	1	:*	1	:/home/wzq/embenced_linux/toolchain	0	bash	:
+window	0	1	1	:*	36ce,121x24,0,0[121x13,0,0,0,121x10,0,14,1]
+state	0	

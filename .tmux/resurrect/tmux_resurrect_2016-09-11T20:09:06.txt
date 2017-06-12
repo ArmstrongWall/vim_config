@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	0	:/home/wzq	1	vim	:vim lucky.py
+pane	0	1	:vim	1	:*	1	:/home/wzq	0	bash	:
+window	0	1	1	:*	2f0b,121x23,0,0{62x23,0,0,1,58x23,63,0,2}
+state	0	0

@@ -1,0 +1,4 @@
+pane	0	1	:man	1	:*	0	:/home/wzq/linux_pram/l8_file_IO	0	vim	:vim lseek.c
+pane	0	1	:man	1	:*	1	:/usr/share/man	1	man	:man lseek
+window	0	1	1	:*	035f,172x38,0,0{96x38,0,0,0,75x38,97,0,1}
+state	0	

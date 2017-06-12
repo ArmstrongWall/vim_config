@@ -1,0 +1,4 @@
+pane	0	1	:bash	1	:*	0	:/home/wzq/Desktop/Part4_Serial	0	vim	:vim main.c
+pane	0	1	:bash	1	:*	1	:/home/wzq/Desktop/Part4_Serial/lesson2_serial_control	1	bash	:
+window	0	1	1	:*	780f,121x24,0,0[121x19,0,0,0,121x4,0,20,1]
+state	0	

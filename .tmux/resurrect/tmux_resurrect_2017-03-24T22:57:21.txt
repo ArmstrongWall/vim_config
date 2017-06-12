@@ -1,0 +1,11 @@
+pane	0	1	:bash	1	:*	0	:/home/wzq/exam_programmer	1	bash	:
+pane	1	1	:bash	1	:*	0	:/home/wzq/exam_programmer	0	vim	:vim huaweitest2.py
+pane	1	1	:bash	1	:*	1	:/home/wzq/exam_programmer	1	bash	:
+pane	2	1	:bash	1	:*	0	:/home/wzq/exam_programmer	0	bash	:
+pane	2	1	:bash	1	:*	1	:/home/wzq/exam_programmer	1	bash	:
+pane	3	1	:vim	1	:*	0	:/home/wzq/exam_programmer/sword_to_offer	1	vim	:vim find_in_array.py
+window	0	1	1	:*	b0fd,128x31,0,0,0
+window	1	1	1	:*	0b5d,128x31,0,0{80x31,0,0,2,47x31,81,0,3}
+window	2	1	1	:*	1976,128x31,0,0{89x31,0,0,4,38x31,90,0,5}
+window	3	1	1	:*	b103,128x31,0,0,6
+state	3	

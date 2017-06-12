@@ -1,0 +1,4 @@
+pane	0	1	:bash	1	:*	0	:/mnt/hgfs/share/data_sructure	0	vim	:vim main.c
+pane	0	1	:bash	1	:*	1	:/mnt/hgfs/share/data_sructure	1	bash	:
+window	0	1	1	:*	d1ec,134x41,0,0[134x34,0,0,0,134x6,0,35,1]
+state	0	
