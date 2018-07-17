@@ -294,6 +294,7 @@ map  <F10> :call CompileRunCPP()<CR>
     endfunc
 
 " 自动补全配置
+let g:ycm_global_ycm_extra_conf = '~/.ycm_extra_conf.py'
 set completeopt=longest,menu	"让Vim的补全菜单行为与一般IDE一致(参考VimTip1228)
 autocmd InsertLeave * if pumvisible() == 0|pclose|endif	"离开插入模式后自动关闭预览窗口
 inoremap <expr> <CR>       pumvisible() ? "\<C-y>" : "\<CR>"	"回车即选中当前项
