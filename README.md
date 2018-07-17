@@ -1,14 +1,15 @@
 # vim_config
 我的VIM编辑器的一些配置
-移植vim
+## 1.移植vim
 
-git clone https://github.com/ArmstrongWall/vim_config.git
+(1),git clone https://github.com/ArmstrongWall/vim_config.git
 && cp  vim_config/.vim* ~/
 && sudo apt-get install ctags 
 && git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim 
 
-3， 安装ctags，sudo apt-get install ctags
-4，打开vim，执行
+(2)，安装ctags，sudo apt-get install ctags
+
+(3)，打开vim，执行
 :PluginInstall
 
 遇到 这个问题  Not an editor command: Bundle '**/*.vim'
@@ -17,26 +18,24 @@ scp -r  wzq@192.168.1.147:/home/wzq/.vim/bundle/Vundle.vim  ./
 过来
 或者 $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim 
 
-#YouCompleteMe
-#YouCompleteMe下载后，因为要进行编译后才能使用，本人在趟过大量的坑后，终于搞懂是什么情况，通宵两个晚上，血泪史呀！英语薄弱真的很致命。
+## 2.安装YouCompleteMe
  
-#进入YouCompleteMe
-cd ~/.vim/bundle/YouCompleteMe
+1 cd ~/.vim/bundle/YouCompleteMe
  
-#执行编译命令
-./install.sh
+2 ./install.sh
 
-#如果无法编译，安装相关支持
+3.如果无法编译，安装相关支持
 sudo apt-get install cmake
 sudo apt-get install python-dev
  
-#将编译后的文件，把其中的.ycm_extra_conf.py复制到用户目录下，就可以使用了
+4.将编译后的文件，把其中的.ycm_extra_conf.py复制到用户目录下，就可以使用了
 cp ~/.vim/bundle/YouCompleteMe/third_party/ycmd/examples/.ycm_extra_conf.py ~/
 
 
 
 
-#Tmux
+# Tmux
+
 source 文件  tmux source-file ~/.tmux.conf
 
 关闭一个面板
