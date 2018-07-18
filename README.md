@@ -33,6 +33,9 @@ sudo apt-get install python-dev
 4.将编译后的文件，把其中的.ycm_extra_conf.py复制到用户目录下，就可以使用了
 cp ~/.vim/bundle/YouCompleteMe/third_party/ycmd/examples/.ycm_extra_conf.py ~/
 
+5.打开vim，执行
+:PluginInstall
+
 
 
 
