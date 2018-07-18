@@ -22,7 +22,7 @@ scp -r  wzq@192.168.1.147:/home/wzq/.vim/bundle/Vundle.vim  ./
  
 1 cd ~/.vim/bundle/YouCompleteMe
  
-2 ./install.sh
+2 ./install.py --clang-completer
 
 3.如果无法编译，安装相关支持
 sudo apt-get install cmake
