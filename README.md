@@ -4,10 +4,7 @@
 
 (1)
 ```
-git clone https://github.com/ArmstrongWall/vim_config.git
-&& cp  vim_config/.vim* ~/
-&& sudo apt-get install ctags 
-&& git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim 
+git clone https://github.com/ArmstrongWall/vim_config.git && cp -r vim_config/.vim* ~/ && sudo apt-get install ctags && git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim 
 ```
 (2)，安装ctags，sudo apt-get install ctags
 
