@@ -50,9 +50,10 @@ source 文件  tmux source-file ~/.tmux.conf
 安装tmux最新版
 先安装依赖项
 ```
- $ apt-get install automake exuberant-ctags cmake libevent-dev libncurses5-dev
+ $ apt-get install automake exuberant-ctags cmake libevent-dev libncurses5-dev byacc
  $ git clone https://github.com/tmux/tmux.git
  $ cd tmux
+ $ git check c0116b2c5ba7d52509a8ce01dd27c2e3a3d4e2af
  $ sh autogen.sh
  $ ./configure && make 
  $ sudo make install
