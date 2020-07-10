@@ -97,14 +97,14 @@ call vundle#end()
 filetype plugin indent on
 
 " 配色方案
-set background=dark
+set background=light
 "colorscheme solarized
 "colorscheme molokai
 
 "colorscheme solarized
 "colorscheme molokai
 "colorscheme phd
-
+"colorscheme morning
 "colorscheme distinguished
 
 colorscheme jellybeans
@@ -243,7 +243,7 @@ set pastetoggle=<F7>
 map <F8> :set nu!<CR>
 map <F2> :w<CR>
 map <F3> :q<CR>
-
+map <F9> :e!<CR>
 set tags=tags;    "   其中 ; 不能没有
 set autochdir
 
@@ -280,14 +280,14 @@ if has("cscope")
 
 
 "Python  按F9编译运行
-map  <F9> :call CompileRunPython()<CR>
+map  <F12> :call CompileRunPython()<CR>
     func! CompileRunPython()
         exec "!python *.py"
     endfunc
 
 
 "C++    按F10编译运行
-map  <F10> :call CompileRunCPP()<CR>
+map  <F13> :call CompileRunCPP()<CR>
     func! CompileRunCPP()
         exec "!gcc *.c -o app"
         exec "!./app"
